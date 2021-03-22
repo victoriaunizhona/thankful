@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/info/Info.module.css"],"names":[],"mappings":"AAAA,kBACI,WAAY,CACZ,oBAAa,CAAb,YAAa,CACb,8BAAuB,CAAvB,sBAAuB,CACvB,0BAAmB,CAAnB,kBACJ","file":"3.3016ce38.chunk.css","sourcesContent":[".Info {\r\n    height: 90vh;\r\n    display: flex;\r\n    justify-content: center;\r\n    align-items: center;\r\n}\r\n"]}

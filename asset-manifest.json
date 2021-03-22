@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/thankful/static/css/main.fcde5350.chunk.css",
+    "main.js": "/thankful/static/js/main.2751b236.chunk.js",
+    "main.js.map": "/thankful/static/js/main.2751b236.chunk.js.map",
+    "runtime-main.js": "/thankful/static/js/runtime-main.7c356209.js",
+    "runtime-main.js.map": "/thankful/static/js/runtime-main.7c356209.js.map",
+    "static/js/2.0e900e53.chunk.js": "/thankful/static/js/2.0e900e53.chunk.js",
+    "static/js/2.0e900e53.chunk.js.map": "/thankful/static/js/2.0e900e53.chunk.js.map",
+    "static/css/3.3016ce38.chunk.css": "/thankful/static/css/3.3016ce38.chunk.css",
+    "static/js/3.627aebf0.chunk.js": "/thankful/static/js/3.627aebf0.chunk.js",
+    "static/js/3.627aebf0.chunk.js.map": "/thankful/static/js/3.627aebf0.chunk.js.map",
+    "static/js/4.d115c81d.chunk.js": "/thankful/static/js/4.d115c81d.chunk.js",
+    "static/js/4.d115c81d.chunk.js.map": "/thankful/static/js/4.d115c81d.chunk.js.map",
+    "static/js/5.e26a0f35.chunk.js": "/thankful/static/js/5.e26a0f35.chunk.js",
+    "static/js/5.e26a0f35.chunk.js.map": "/thankful/static/js/5.e26a0f35.chunk.js.map",
+    "index.html": "/thankful/index.html",
+    "static/css/3.3016ce38.chunk.css.map": "/thankful/static/css/3.3016ce38.chunk.css.map",
+    "static/css/main.fcde5350.chunk.css.map": "/thankful/static/css/main.fcde5350.chunk.css.map",
+    "static/js/2.0e900e53.chunk.js.LICENSE.txt": "/thankful/static/js/2.0e900e53.chunk.js.LICENSE.txt",
+    "static/media/logo-small.008a7097.svg": "/thankful/static/media/logo-small.008a7097.svg",
+    "static/media/logo_thankful.857979e9.svg": "/thankful/static/media/logo_thankful.857979e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c356209.js",
+    "static/js/2.0e900e53.chunk.js",
+    "static/css/main.fcde5350.chunk.css",
+    "static/js/main.2751b236.chunk.js"
+  ]
+}

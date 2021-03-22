@@ -1,0 +1,2 @@
+(this.webpackJsonpthankful=this.webpackJsonpthankful||[]).push([[4],{98:function(t,n,s){"use strict";s.r(n);s(0);var e=s(3);n.default=function(){return Object(e.jsx)("div",{children:"History page"})}}}]);
+//# sourceMappingURL=4.d115c81d.chunk.js.map
