@@ -12,7 +12,7 @@ import 'react-app-polyfill/stable';
 ReactDOM.render(
     <React.StrictMode>
         <AuthContextProvider>
-            <BrowserRouter>
+            <BrowserRouter basename="/thankful/">
                 <App/>
             </BrowserRouter>
         </AuthContextProvider>

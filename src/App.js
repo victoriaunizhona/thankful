@@ -100,6 +100,7 @@ function App(props) {
                                     error={error}
                                     createUserWithEmailAndPassword={createUserWithEmailAndPassword}
                                     onGoogleLogin={signInWithGoogle}/>)}/>
+                <Redirect from="/"  exact to="/home"/>
                 <Redirect from="*" to="/not-found"/>
             </Switch>
         </Suspense>
@@ -116,6 +117,7 @@ function App(props) {
                     <Route path="/home" exact component={Home}/>
                     <Route path="/logout" exact render={() => logOut()}/>
                     <Redirect from="/login" to="/home"/>
+                    <Redirect from="/"  exact to="/home"/>
                     <Redirect from="*" to="/not-found"/>
                 </Switch>
             </Suspense>
