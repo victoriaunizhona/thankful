@@ -1,0 +1,33 @@
+.Card{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+    line-height: 2rem;
+    padding: 1rem;
+}
+
+
+
+
+@media only screen and (max-width: 1800px) {
+    .SVG{
+        height: 15rem!important;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .SVG{
+        height: 10rem!important;
+    }
+}
+
+
+@media only screen and (max-width: 500px) {
+    .SVG{
+        height: 7rem!important;
+    }
+}

@@ -1,0 +1,18 @@
+.Heading{
+margin: 0;
+}
+
+.Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Input{
+    margin-top: 1rem;
+}
+
+.Container{
+    padding: 50px 0;
+}

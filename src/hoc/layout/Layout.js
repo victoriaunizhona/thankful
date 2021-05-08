@@ -6,7 +6,7 @@ import Header from '../../components/ui/header/Header';
 const Layout = (props) => {
     return (
         <div>
-            <Header isAuth={props.isAuth}/>
+            <Header/>
             <div>{props.children}</div>
             <Footer/>
         </div>

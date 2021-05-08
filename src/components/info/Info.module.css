@@ -1,6 +1,31 @@
 .Info {
-    height: 90vh;
+    min-height: 70vh;
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+}
+
+.Title{
+    align-content: center;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.Card{
     display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.CardText{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    align-content: end;
+    text-align: justify;
+}
+
+.Container{
+    padding-bottom: 20rem;
 }

@@ -13,3 +13,8 @@
 .Icon{
     cursor: pointer;
 }
+
+.Links{
+    display: flex;
+    padding-bottom: 5px;
+}

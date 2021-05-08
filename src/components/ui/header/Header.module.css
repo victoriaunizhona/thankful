@@ -1,5 +1,10 @@
 .Header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.Toolbar{
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
