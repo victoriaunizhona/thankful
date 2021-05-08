@@ -1,1 +1,0 @@
-{"version":3,"sources":["containers/history/History.js"],"names":["History"],"mappings":"qGAAA,uBASeA,UANC,WACZ,OACC","file":"static/js/4.d115c81d.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\n\r\nconst History = () => {\r\n    return (\r\n     <div>History page</div>\r\n    );\r\n};\r\n\r\nexport default History;\r\n"],"sourceRoot":""}

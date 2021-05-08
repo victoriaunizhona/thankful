@@ -1,2 +1,0 @@
-(this.webpackJsonpthankful=this.webpackJsonpthankful||[]).push([[3],{100:function(n,t,s){"use strict";s.r(t);s(0);var o=s.p+"static/media/logo_thankful.857979e9.svg",a=s(97),c=s.n(a),e=s(3);t.default=function(){return Object(e.jsx)("div",{className:c.a.Info,children:Object(e.jsx)("img",{src:o,alt:"logo"})})}},97:function(n,t,s){n.exports={Info:"Info_Info__3zBA2"}}}]);
-//# sourceMappingURL=3.627aebf0.chunk.js.map
