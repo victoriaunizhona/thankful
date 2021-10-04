@@ -1,3 +1,5 @@
 App to write what you are thankful for
 
-This app is still in progress
+Technologies: React 17+, axious, firebase, google-auth, hooks
+
+You can check it here: https://victoriaunizhona.github.io/burger-app/
